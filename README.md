@@ -15,7 +15,7 @@ A dramatic hacker-style interface that adds to the fun 😎
 Fun prompts to guide you through the game.
 
 # Usage 🚀
-Once you install the app, simply run:
+Once you clone the repo, simply run:
 ```
 python guessmynumber.py
 ```
