@@ -17,6 +17,10 @@ Fun prompts to guide you through the game.
 # Usage 🚀
 Once you clone the repo, simply run:
 ```
+pip install colorama
+```
+and then run...
+```
 python guessmynumber.py
 ```
 The game will walk you through the steps to guess your number. Just follow along and enjoy the magic!
